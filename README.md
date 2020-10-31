@@ -6,12 +6,12 @@ How to run the App
 Clone the project from github
 
 ## Step 2
-locate to your project folder and run the following command.
+Locate to your project folder and run the following command.
 
 npm install
 npm build
 
 ## Step3
-Tp run the web application
+To run the web application
 
 npm start
