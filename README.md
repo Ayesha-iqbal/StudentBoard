@@ -1,13 +1,17 @@
-This is a sample repository showcasing how you can create a responsive navigation menu for your website in your React application.
+This is a simple React application.
 
-The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+How to run the App
 
-## Tutorial
+## Step 1
+Clone the project from github
 
-You can find the full tutorial at [https://gc-codes.com](https://gc-codes.com/reactjs/2020/04/responsive-fast-primary-navigation-menu-for-reactjs-application/)
+## Step 2
+locate to your project folder and run the following command.
 
-## Demo
-The demo is available here at [CodeSandbox](https://codesandbox.io/s/github/gc-codes/react-responsive-navigation-bar)
+npm install
+npm build
 
-## License
-[MIT License](https://choosealicense.com/licenses/mit/#)
+## Step3
+Tp run the web application
+
+npm start
